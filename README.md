@@ -15,10 +15,10 @@ Today we’re going to talk about a persistence method that takes advantage of s
 
         ABUSING WINDOWS TELEMETRY FOR PERSISTENCE
                                                  .Imanfeng
-    	Features:
+       Features:
             Install:   -   Deployment authority maintains backdoor
     
-        Command :
+        Command:
             TELEMETRY.exe install /command:calc
             -   Execute command without file backdoor
     

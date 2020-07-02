@@ -10,7 +10,6 @@ Today we’re going to talk about a persistence method that takes advantage of s
 - **Local admin rights to install (requires the ability to write to HKLM)**
 - **Have CompatTelRunner.exe**
 - **2008R2/Windows 7 through 2019/Windows 10**
-- **Bypass 360&Defender...**
 
 ### Command Line Usage
 

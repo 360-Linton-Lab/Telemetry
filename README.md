@@ -5,11 +5,16 @@
 
 [TELEMETRY](#TELEMETRY-1) is a C# For Windows PERSISTENCE
 
-Today we’re going to talk about a persistence method that takes advantage of some of the wonderful telemetry that Microsoft has included in Windows versions for the last decade. The process outlined here affects Windows machines from 2008R2/Windows 7 through 2019/Windows 10.
+Today we’re going to talk about a persistence method that takes advantage of some of the wonderful telemetry that Microsoft has included in Windows versions for the last decade. 
 
 - **Local admin rights to install (requires the ability to write to HKLM)**
 - **Have CompatTelRunner.exe**
 - **2008R2/Windows 7 through 2019/Windows 10**
+
+### Advantage
+
+- **Using the system's own Telemetry planned tasks**
+- **Only registry suspicious backdoor troubleshooting**
 
 ### Command Line Usage
 
